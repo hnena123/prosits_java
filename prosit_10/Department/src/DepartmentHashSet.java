@@ -1,5 +1,3 @@
-package entities;
-
 import interfaces.IDepartement;
 
 import java.util.*;
